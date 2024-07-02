@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ana Margarita Garcia (@anagarcia791) ![visitors](https://visitor-badge.glitch.me/badge?page_id=anagarcia791&left_color=green&right_color=red)
+# 👋 Hi, I’m Ana Margarita Garcia (@anagarcia791)
 
 ### 🌱 I’m a Frontend Developer and Test Automator
 
